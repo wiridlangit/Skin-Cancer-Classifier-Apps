@@ -8,3 +8,4 @@ interface NewsApi {
     fun getNews(): Call<NewsResponse>
 }
 
+// get token from https://newsapi.org/s/indonesia-health-news-api
